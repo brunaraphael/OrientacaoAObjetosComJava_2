@@ -1,14 +1,5 @@
 public class Principal{
 
-
-    /*
-    * Crie uma classe Principal com o método main() que faz o seguinte:
-
-Cria 3 pizzas com ingredientes diferentes
-Adiciona essas Pizzas em um CarrinhoDeCompra
-Imprime o total do CarrinhoDeCompra
-Imprime a quantidade utilizada de cada ingrediente*/
-
     public static void main(String argumentos[]){
 
         Pizza pizza1 = new Pizza();
